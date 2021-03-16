@@ -1,1 +1,1 @@
-# HackerEarth
+Solutions to # HackerEarth questions
